@@ -29,12 +29,16 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "plugins": ["expo-font", "expo-secure-store"],
+    "plugins": [
+      "expo-font",
+      "expo-secure-store"
+    ],
     "newArchEnabled": true,
     "extra": {
       "eas": {
-        "projectId": "32aaec0f-06b7-4751-8c0a-7326e4bfe426"
+        "projectId": "816e093a-1673-4bf6-a844-b575f0c91cde"
       }
-    }
+    },
+    "owner": "zeus001"
   }
 }
